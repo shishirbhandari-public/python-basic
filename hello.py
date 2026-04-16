@@ -1,4 +1,4 @@
-n = int(input("enter a number: "))
+n = int(input("enter a number : "))
 d = n % 3
 if d == 0:
     print(f"{n} is divisible by 3")
