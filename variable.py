@@ -1,4 +1,4 @@
-n=input("enter a string  :")
+n=input("enter a string   :")
 a=""
 c=len(n)
 for i in range (c , 0 , -1):
