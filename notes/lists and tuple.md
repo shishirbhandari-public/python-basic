@@ -1,4 +1,4 @@
-#LISTS
+##LISTS
 
 lists in python are container where we can stre multiple type of data . 
 tuple is mutable it means that we can change the value of list
@@ -14,7 +14,8 @@ list1.append("happy")
 print (list1)
 now we can see that happy is added in the list1
 
-#TUPLE
+##TUPLE
+
 tuple is also a container where we can store multiple type of data
 but tuple is immutable it means that we cannot change the value of tuple
 the syntax is also bit different of tuple 
